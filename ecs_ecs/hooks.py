@@ -9,8 +9,8 @@ app_color = "grey"
 app_email = "info"
 app_license = "MIT"
 
-web_include_css = "/assets/ecs_ecs/public/css/ecs_web.css"
-web_include_js = "/assets/ecs_ecs/public/js/ecs_web.js"
+web_include_css = "/assets/ecs_ecs/css/ecs_web.css"
+web_include_js = "/assets/ecs_ecs/js/ecs_web.js"
 
 # Includes in <head>
 # ------------------

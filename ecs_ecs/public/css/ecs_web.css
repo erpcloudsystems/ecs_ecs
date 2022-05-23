@@ -1,0 +1,15 @@
+.d-flex {
+    text-align: center;
+    display: block;
+}
+.split-section-content.align-top{
+    text-align: right;
+}
+.nav-tabs{
+    direction: rtl;
+}
+.page-header{
+    position: relative;
+flex: 1;
+text-align: center;
+}
